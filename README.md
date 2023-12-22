@@ -1,4 +1,10 @@
-## Java开发实战经典
+<p align="center"><a href="https://github.com/yangzhao917/java-chapter-practice-code" target="_blank" rel="noopener noreferrer"><img width="150" src="https://qiniu-image.gotojava.cn/blog/2023-12-22-181058.jpg" alt="JavaLogo"></a></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/JDK-1.8%2B-blue" alt="JDK Version">
+<img src="https://img.shields.io/badge/Maven-3.5%2B-red" alt="Maven Version">
+<img src="https://img.shields.io/badge/License-MIT License-orange" alt="license">
+</p>
 
 ## 导航
 
