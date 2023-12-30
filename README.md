@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/License-MIT License-orange" alt="license">
 </p>
 
-## 导航
+## 目录导航
 
 《Java开发实战经典》第二版的章节练习代码，用于实践相关的章节案例。
 
@@ -66,8 +66,13 @@ git clone https://github.com/yangzhao917/java-chapter-practice-code.git
 
 [我要提交建议或问题](https://github.com/yangzhao917/java-chapter-practice-code/issues)
 
-## About me
+## 参考资源
 
-开发者、网络安全爱好者
++ 书籍
+  - [《Java开发实战经典》第二版-微信读书](https://weread.qq.com/web/reader/542322d07198d76054284a5)
+  - [Java开发手册-嵩山版](docs/Java开发手册-嵩山版.pdf)
 
-博客：[澄澈少年的博客](https://gotojava.cn/)
++ 视频教程
+    - [Java编程入门-阿里云大学](https://edu.aliyun.com/course/312293)
+    - [Java面向对象编程-阿里云大学](https://edu.aliyun.com/course/312300)
+    - [Java高级编程-阿里云大学](https://edu.aliyun.com/course/312308)
